@@ -12,4 +12,3 @@ function anagramGroups(arr) {
 }
                             
 console.log(anagramGroups(['bat', 'tab', 'cat', 'act'])) // [['bat', 'tab'], ['cat', 'act']]
-console.log(anagramGroups(['bat', 'tab', 'cat', 'act','rrr','ytr']))
